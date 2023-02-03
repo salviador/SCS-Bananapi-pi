@@ -17,6 +17,6 @@
 
 
 **Link Immagine preconfigurata**
-* <code><a href="https://drive.google.com/file/d/1Vooc9f5S382XoMvbSZqWyfS-gKfrf4Li/view">Link sd-card</a></code>
+* <code><a href="https://drive.google.com/file/d/1Fw8A9H4acob1FCum-jNqXLLlsHfFbEbb/view?usp=share_link">Link sd-card</a></code>
 * user root
 * password bananapi
